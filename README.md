@@ -9,7 +9,8 @@ Me encotrei na programação e estou amando aprender, pretendo migrar para a are
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizVJr2001&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projeto
-O projeto abaixo é um clone do TikTok usando React, aprendi como funciona a criação de componentes e integração básica a banco de dados externos.
+
+O [repositório](https://github.com/LuizVJr2001/jornadadev) abaixo é um clone do TikTok usando React, aprendi como funciona a criação de componentes e integração básica a banco de dados externos.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizVJr2001&repo=jornadadev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
