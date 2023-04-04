@@ -1,8 +1,8 @@
 ### Olá Pessoal 👋
 
 ###### Sobre o Luiz
-Atualmente trabalho na área de administração de uma escola infantil.
-Me encotrei na programação e estou amando aprender, pretendo migrar para a area de TI.
+
+Atualmente trabalho com administração em uma escola infantil, mas busco migrar para o campo da TI. Estou aberto a oportunidades para me capacitar e desenvolver projetos desafiadores.
 
 ### Detalhes
 
